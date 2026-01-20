@@ -1,0 +1,6 @@
+Segment_Name,Total_Customers,Avg_Days_Since_Last_Purchase,Avg_Number_of_Orders,Avg_Total_Spent,Avg_Return_Percentage
+"VIP Whales",720,15,16.8,7482.03,1.32
+"Steady Customers",1521,36,3.9,1242.8,0.32
+Churned/Inactive,272,106,4.9,1002.16,90.79
+New/Occasional,1817,164,1.5,420.12,0.1
+"High Returners",41,270,1.5,-322.66,716.13
