@@ -34,6 +34,7 @@ Business Intelligence Report: This report uses the ML segments to analyze real-w
 - Normalization is Essential: Without log-normalization, extreme returners "blinded" the model. Transformation was the key to identifying the VIP segment and distinguishing them from average shoppers.
 - Profitability vs. Volume: "High Returners" may show significant revenue but often result in net losses due to high logistics and processing costs.
 - Hybrid Workflow: By pushing ML labels to SQL, non-technical stakeholders can now run their own "Whale" or "At-Risk" reports without needing Python.
+- EDA showed that it is imperative to put energy into making new and occasional clients more loyal, as they are one of the biggest clusters (over 41%).
 
 ## Solutions for the Dataset Issues
 
