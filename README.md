@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project transforms raw transactional data into actionable business intelligence using a hybrid Python-SQL approach. By engineering custom metrics and applying K-Means clustering with **Log-Transformation**, we identified distinct customer segments that help optimize marketing spend and operational focus.
+Project presentation: https://docs.google.com/presentation/d/18JH7ZI-LkJJ5OUce6EatCo8GHZJw8NatRjAb6VwAz08/edit?usp=sharing
 
 # Feature Engineering: The RFM-R Metrics
 To capture the true value and cost of each customer, a custom feature set was built:
