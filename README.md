@@ -34,7 +34,7 @@ Business Intelligence Report: This report uses the ML segments to analyze real-w
 - Normalization is Essential: Without log-normalization, extreme returners "blinded" the model. Transformation was the key to identifying the VIP segment and distinguishing them from average shoppers.
 - Profitability vs. Volume: "High Returners" may show significant revenue but often result in net losses due to high logistics and processing costs.
 - Hybrid Workflow: By pushing ML labels to SQL, non-technical stakeholders can now run their own "Whale" or "At-Risk" reports without needing Python.
-- EDA showed that it is imperative to put energy into making new and occasional clients more loyal, as they are one of the biggest clusters (over 41%).
+- EDA showed that it is imperative to put energy into making new and occasional clients more loyal, as they are the biggest clusters. Similarly, other CRM initiatives would benefit the company.
 
 ## Solutions for the Dataset Issues
 
@@ -59,7 +59,5 @@ To ensure the integrity of the segmentation and the reliability of the business 
 
 # Next steps
 - Predictive Churn: Build a model to predict which "Steady Customers" are moving toward the "Inactive" segment based on temporal trends.
-
 - Geographic Analysis: Identify which countries have the highest concentration of "High Returners" to investigate potential localized logistics issues.
-
 - Automated Flagging: Integrate the SQL view with order fulfillment software to flag high-risk orders from the "High Returner" segment for manual review.
