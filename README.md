@@ -1,4 +1,5 @@
-# Ironman Customer Analytics: RFM & Return Rate Segmentation
+# Project Iron Man, final deliverable by Alan S.L.
+# Customer Analytics: RFM & Return Rate Segmentation
 
 ## Project Overview
 This project transforms raw transactional data into actionable business intelligence using a hybrid Python-SQL approach. By engineering custom metrics and applying K-Means clustering with **Log-Transformation**, we identified distinct customer segments that help optimize marketing spend and operational focus.
