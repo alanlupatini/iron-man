@@ -22,7 +22,6 @@ The Solution: a Log Transformation was applied to all metrics. This "squashed" t
 - New/Occasional: Recently acquired or low-frequency shoppers.
 - Steady Customers: The reliable backbone of the business.
 - VIP Whales: High-frequency, high-value brand advocates.
-- Churned/Inactive: Customers who haven't purchased in a significant period.
 - High Returners: Extreme outliers that require operational flagging.
 
 # SQL Integration & Reporting 
